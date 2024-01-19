@@ -1,6 +1,5 @@
-.about__column{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    
+.about__column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

@@ -1,8 +1,7 @@
-.lots{
-    margin: 176px 0 0 0;
-    padding: 0 33px;
-    
-    display: flex;
-    flex-direction: column;
+.lots {
+  margin: 176px 0 0 0;
+  padding: 0 33px;
 
+  display: flex;
+  flex-direction: column;
 }

@@ -1,0 +1,9 @@
+.footer__links-list-item {
+  text-decoration: solid underline 1px;
+  text-underline-offset: 4px;
+}
+
+.footer__links-list-item:first-child {
+  padding-bottom: 1px;
+  text-decoration-color: transparent;
+}

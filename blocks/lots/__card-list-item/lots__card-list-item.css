@@ -1,0 +1,11 @@
+.lots__card-list-item {
+  min-width: 328px;
+  flex-basis: 0;
+  flex-grow: 1;
+
+  padding-right: 25px;
+}
+
+.lots__card-list-item:last-child {
+  padding-right: 0;
+}

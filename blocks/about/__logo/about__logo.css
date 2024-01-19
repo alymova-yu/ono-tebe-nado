@@ -1,10 +1,11 @@
-.about__logo{
-    background-color: black;
-    width: 237px;
-    height: 237px;
-    border-radius: 50%;
+.about__logo {
+  background-color: black;
+  max-width: 100%;
+  min-height: 237px;
+  border-radius: 50%;
+  padding: 0 45px;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

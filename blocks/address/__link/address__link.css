@@ -1,0 +1,8 @@
+.address__link {
+  text-decoration: solid underline 1px;
+  text-underline-offset: 4px;
+}
+
+.address__link:hover {
+    color: rgba(18, 6, 45, 0.541);
+  }

@@ -1,16 +1,13 @@
-.cover{
-    margin: 0 9px 0 9px;
-    background-image: url(../../images/lotus-flower.png);
-    background-size:cover; 
-    background-position: center;  
+.cover {
+  margin: 0 9px 0 9px;
+  background-image: url(../../images/lotus-flower.png);
+  background-size: cover;
+  background-position: center;
 
-    color: #FFFFFF;
-    
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    position: relative;
+  color: #ffffff;
 
-    
-
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
 }

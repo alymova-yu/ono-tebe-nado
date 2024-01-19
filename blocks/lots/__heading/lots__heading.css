@@ -1,13 +1,10 @@
-.lots__heading{
-    padding: 0 0 0 37px;
+.lots__heading {
+  padding: 0 0 0 37px;
 
-    color: #000;
-    font-family: Raleway;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    text-transform: uppercase;
-
-
+  font-family: Raleway;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
 }
