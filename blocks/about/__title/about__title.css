@@ -1,0 +1,12 @@
+.about__title{
+    font-family: Raleway;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+
+    align-self:flex-start;
+
+    margin: 97px 0 100px 25px;
+}

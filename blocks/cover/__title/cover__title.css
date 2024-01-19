@@ -1,0 +1,13 @@
+.cover__title{
+    font-family: Raleway;
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 115px;
+    text-align: left;
+    text-transform: uppercase;
+    
+
+    z-index: 1;
+
+    padding: 162px 48px 0 47px;
+}

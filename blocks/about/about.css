@@ -1,0 +1,6 @@
+.about{
+    margin: 178px 0 0 33px;
+    
+    display: grid;
+    grid-template-columns: 328px auto;
+}

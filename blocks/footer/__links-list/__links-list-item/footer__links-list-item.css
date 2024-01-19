@@ -1,0 +1,8 @@
+.footer__links-list-item{
+    padding: 0;
+
+}
+
+.footer__links-list-item:first-child{
+    padding-bottom: 1px;
+}

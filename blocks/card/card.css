@@ -1,0 +1,15 @@
+.card{
+    position: relative;
+    height: 100%;
+
+    
+    background-size:cover; 
+    background-position: center;  
+
+    color: #FFFFFF;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+}

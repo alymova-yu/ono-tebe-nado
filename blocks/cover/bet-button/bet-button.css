@@ -1,0 +1,15 @@
+.bet-button{
+    width: 252px;
+    height: 52px;
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    border: 1px solid rgb(255, 255, 255);
+
+}

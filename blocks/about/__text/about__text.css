@@ -1,0 +1,14 @@
+.about__text{
+    padding: 0 21px 23px 25px;
+
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.about__text:last-child{
+    padding: 0 21px 0 25px;
+
+}

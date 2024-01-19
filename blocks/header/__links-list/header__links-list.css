@@ -1,0 +1,20 @@
+.header__links-list{
+    padding: 2px 0 0 0;
+
+    display: flex;
+    justify-content: space-evenly;
+
+    align-self: start;
+    justify-self: start;
+
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+
+    
+    
+    list-style-type: circle;
+
+}

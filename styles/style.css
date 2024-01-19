@@ -1,1 +1,55 @@
-/* место для вашего кода */
+@import url(./global.css);
+@import url(../fonts/fonts.css);
+
+@import url(../blocks/address/address.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__links-list/header__links-list.css);
+@import url(../blocks/header/__links-list-item/header__links-list-item.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__link/__link_active/header__link_active.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__logo-image/header__logo-image.css);
+@import url(../blocks/header/__address/header__address.css);
+
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/aligned-text/aligned-text.css);
+@import url(../blocks/cover/aligned-text/_center/aligned-text_center.css);
+@import url(../blocks/cover/aligned-text/_right/aligned-text_right.css);
+@import url(../blocks/cover/__title/letter-spacing/letter-spacing-extended.css);
+@import url(../blocks/cover/__title/letter-spacing/no-letter-spacing.css);
+
+@import url(../blocks/cover/__description/cover__description.css);
+@import url(../blocks/cover/bet-button/bet-button.css);
+@import url(../blocks/cover/__description-text/cover__description-text.css);
+@import url(../blocks/overlay/overlay.css);
+@import url(../blocks/lots/lots.css);
+@import url(../blocks/lots/__heading/lots__heading.css);
+@import url(../blocks/lots/__card-list/lots__card-list.css);
+@import url(../blocks/lots/__card-list/__card-list-item/lots__card-list-item.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/_type_film/card_type_film.css);
+@import url(../blocks/card/_type_book/card_type_book.css);
+@import url(../blocks/card/_type_picture/card_type_picture.css);
+@import url(../blocks/lots/__look-more-link/lots__look-more-link.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__text/card__text.css);
+
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__column/about__column.css);
+@import url(../blocks/about/__logo/about__logo.css);
+@import url(../blocks/about/__logo/__logo-image/about__logo-image.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/__text/about__text.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__links-list/footer__links-list.css);
+@import url(../blocks/footer/__links-list/__links-list-item/footer__links-list-item.css);
+@import url(../blocks/footer/__link/footer__link.css);
+
+@import url(../blocks/footer/__social-list/footer__social-list.css);
+@import url(../blocks/footer/__social-link/footer__social-link.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
